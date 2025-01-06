@@ -6,15 +6,4 @@ import cowsay
 import sys
 if len(sys.argv) == 2:
     cowsay.trex("Hello , "+sys.argv[1])
-    """OUTPUT : 
-      _____________
-| Hello , Nabin |
-  =============
-             \
-              \
-                ^__^
-                (oo)\_______    
-                (__)\       )\/
-                    ||----w |   
-                    ||     || 
-                                   """
+ #try cowsay.cow and trex XDDD
