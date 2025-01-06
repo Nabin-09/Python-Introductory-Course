@@ -33,6 +33,15 @@ The course is divided into several levels, each focusing on different aspects of
 - Best practices for exception handling
 - Raise , pass keywords
 
+### Level 3: Libraries
+
+- Understanding modules , packages and Libraries
+- Basic keywords like from , import etc
+- Knows packages like random , statistics , requests etc
+- Understanding the sys package
+- APIs and JSON handling
+- Importing Custom libraries and __name__
+
 ## Author
 
 This course is created and maintained by [Nabin](https://github.com/Nabin-09).
