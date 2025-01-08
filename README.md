@@ -42,6 +42,14 @@ The course is divided into several levels, each focusing on different aspects of
 - APIs and JSON handling
 - Importing Custom libraries and __name__
 
+### Level 4: Unit Tests
+
+- Introduction to test cases
+- Manual testing
+- Pytest
+- Assert and Raises keyword
+- Unit testing on folders and multiple files
+
 ## Author
 
 This course is created and maintained by [Nabin](https://github.com/Nabin-09).
