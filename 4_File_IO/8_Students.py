@@ -11,5 +11,7 @@ with open ("Students.csv") as file:
         students.append(student)
 def get_name(student):
     return student["name"]
-for student in sorted(students , key=get_name):
+for student in sorted(students , key=get_name):#Sorted function aslo takes key as a parameter
+    #We can omit creating the get_name function and create a lambda fucntion instead
+    #key = lamda student: student["name"]
     print(f"{student['name']} lives in {student['house']}")
