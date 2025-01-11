@@ -1,6 +1,8 @@
 #Dictionaries are key value pairs
 def main():
     Student  = get_student()
+    if Student["name"] == "Padma":
+        Student["house"] = "RavenClaw"
     print(f"{Student['name']} from {Student['house']}")#Indexing a tuple
 
 def get_student():
