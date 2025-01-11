@@ -50,6 +50,16 @@ The course is divided into several levels, each focusing on different aspects of
 - Assert and Raises keyword
 - Unit testing on folders and multiple files
 
+### Level 5 : File I/O
+
+- Text and CSV files
+- open and file methods
+- with keyword
+- Rows and column handling in CSV
+- Sorting the items
+- Lamda functions
+- CSV package
+
 ## Author
 
 This course is created and maintained by [Nabin](https://github.com/Nabin-09).
