@@ -10,4 +10,8 @@ def main():
 def get_student():
     name = input("Name : ")
     house = input("House : ")
-    student = Student(name , house)
+    student = Student(name , house)#Contructor call 
+    return student
+
+if __name__ == "__main__":
+    main()
