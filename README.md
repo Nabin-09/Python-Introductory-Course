@@ -60,6 +60,16 @@ The course is divided into several levels, each focusing on different aspects of
 - Lamda functions
 - CSV package
 
+### Level 6 : OOPS
+
+ - Classes and objects
+ - Encapsulation
+ - Inheritance
+ - Polymorphism
+ - Abstraction
+ - Special Methods
+ - Meta Classes and advanced OOPS
+
 ## Author
 
 This course is created and maintained by [Nabin](https://github.com/Nabin-09).
